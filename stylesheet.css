@@ -1,0 +1,22 @@
+*{
+    margin: auto;
+    padding: 5%;
+
+}
+
+.myDiv {
+    border: 2px solid steelblue;
+    border-radius: 12px;
+    text-align: center;
+    padding-inline-start: 0%; 
+    padding-inline-end: 0%;
+  }
+
+.myDiv2 {
+    text-align: center;
+  }
+
+p.small{
+    padding-top: 5%; 
+    padding-bottom: 0%; 
+}
